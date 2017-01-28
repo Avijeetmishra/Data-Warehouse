@@ -1,6 +1,6 @@
 Project 1: Data Warehouse / OLAP System
 
-Discription: In this project we designed and developed a data warehouse based on the logical data model named “BioStar” which deals with biomedical data.The OLAP and statistical operations were implemented on top of the Oracle database in C# using Microsoft Visual Studio as a platform. They fecilitate knowledge discovery. 
+Description: In this project we designed and developed a data warehouse based on the logical data model named “BioStar” which deals with biomedical data.The OLAP and statistical operations were implemented on top of the Oracle database in C# using Microsoft Visual Studio as a platform. They fecilitate knowledge discovery. 
 
 Instructions
 * The file "WindowsFormsApplication1.sln" s present in the "Data Warehouse_OLAP operations' folder.
