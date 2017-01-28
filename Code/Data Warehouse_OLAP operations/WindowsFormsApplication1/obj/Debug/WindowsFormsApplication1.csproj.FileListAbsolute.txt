@@ -1,0 +1,112 @@
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NMath.dll
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NMathChartMicrosoft.dll
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.EntityFramework.dll
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.Web.dll
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NMath.xml
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NMathChartMicrosoft.xml
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.AdHocReportingExcelClientLib.dll
+C:\Users\Avijeet\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.AdHocReportingExcelClientLib.dll
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.EntityFramework.dll
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.Web.dll
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.Solver.Foundation.dll
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NMath.xml
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NMathChartMicrosoft.xml
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\data mining\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.EntityFramework.dll
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\Oracle.Web.dll
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\Microsoft.Solver.Foundation.dll
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\NMath.xml
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\NMathChartMicrosoft.xml
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\Interop.AdHocReportingExcelClientLib.dll
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\data mining\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\Interop.AdHocReportingExcelClientLib.dll
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.EntityFramework.dll
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\Oracle.Web.dll
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\Microsoft.Solver.Foundation.dll
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\NMath.xml
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\bin\Debug\NMathChartMicrosoft.xml
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\data mining\Project1\Data Warehouse_OLAP operations\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
